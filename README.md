@@ -1,2 +1,2 @@
 # mypages
-http://buddha-ssjhs.github.io/mypages/master/test.html
+# 範例：https://buddha-ssjhs.github.io/mypages/test.html
